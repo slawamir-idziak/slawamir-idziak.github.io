@@ -1,0 +1,7 @@
+{
+  "include": [
+    "*.js",
+    "../firework/libraries/*.js",
+    "c:\\Users\\rspon\\.vscode\\extensions\\samplavigne.p5-vscode-1.2.8\\p5types\\global.d.ts"
+, "../firework/libraries/firework.js", "../firework/firework.js"  ]
+}
